@@ -8,7 +8,7 @@ This project is an useful tool to check the current weather update in real-time.
 
 ## Quick Links
 
-[Live Demo]()
+[Live Demo](https://weatherapp1233.netlify.app)
 
 [Tech Stack](#tech-stack)
 
